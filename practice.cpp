@@ -95,7 +95,7 @@ int main() {
     MonthlyEmployee m1("079987654321", "0903004005", "Da Nang", 15000000, 2000000, 1.2);
 
     // Hiển thị thông tin (ví dụ)
-    cout << "--- Employee e1 ---" << endl;
+    cout << "--- Employee e1---" << endl;
     cout << "CCCD: " << e1.getCCCD() << endl;
     cout << "SDT: " << e1.getSDT() << endl;
     cout << "Address: " << e1.getAddress() << endl << endl;
